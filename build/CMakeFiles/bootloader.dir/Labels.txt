@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/CMakeFiles/bootloader
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/CMakeFiles/bootloader.rule
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/CMakeFiles/bootloader-complete.rule
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/Volumes/LaCie/esp/esp-idf/projects/whacker/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
